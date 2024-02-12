@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="food_screen_name">Food</string>
+    <string name="details_screen_name">Details</string>
+    <string name="common_back">Back</string>
+    <string name="common_refresh">Refresh</string>
+    <string name="common_placeholder">Placeholder</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_8dp">8dp</dimen>
+    <dimen name="padding_16dp">16dp</dimen>
+    <dimen name="padding_32dp">32dp</dimen>
+    <dimen name="padding_48dp">48dp</dimen>
+    <dimen name="card_height_80dp">80dp</dimen>
+    <dimen name="food_img_size_100dp">100dp</dimen>
+
+    <dimen name="placeholder_text_size_20">20sp</dimen>
+</resources>
